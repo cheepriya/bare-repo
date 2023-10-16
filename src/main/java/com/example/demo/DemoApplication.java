@@ -25,3 +25,5 @@ public class DemoApplication {
 // master: no conflicts after the merge
 
 // A local change - it will conflict with the remote change
+
+// Just trying another time
