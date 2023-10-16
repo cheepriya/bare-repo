@@ -23,3 +23,5 @@ public class DemoApplication {
 // A change added : new-branch no conflicts after the merge
 
 // master: no conflicts after the merge
+
+// A local change - it will conflict with the remote change
