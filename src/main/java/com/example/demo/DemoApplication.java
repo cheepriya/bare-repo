@@ -20,4 +20,6 @@ public class DemoApplication {
 
 }
 
-// mater: conflict
+// A change added : new-branch no conflicts after the merge
+
+// master: no conflicts after the merge
