@@ -28,3 +28,6 @@ public class DemoApplication {
 // Just trying another time
 // A remote change - no conflict after the merge
 //another commit
+
+
+//A local change
