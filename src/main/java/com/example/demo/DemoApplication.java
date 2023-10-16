@@ -24,6 +24,7 @@ public class DemoApplication {
 
 // master: no conflicts after the merge
 
-// A local change - it will conflict with the remote change
-
+// A local change - no conflict after the merge
 // Just trying another time
+// A remote change - no conflict after the merge
+//another commit
