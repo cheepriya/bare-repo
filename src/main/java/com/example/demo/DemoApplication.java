@@ -34,6 +34,10 @@ public class DemoApplication {
 // A remote change (imagine someone has pushed her change to the remote)
 
 //update 1 - OK
+<<<<<<< HEAD
 //update 2 - OK
 //update 3 - oops - an issue !
 //update 4 - ok
+=======
+//update 2 - OK
+>>>>>>> parent of cda4495 (update 3 - oops - an issue !)
