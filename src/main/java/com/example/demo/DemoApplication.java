@@ -34,3 +34,4 @@ public class DemoApplication {
 // A remote change (imagine someone has pushed her change to the remote)
 
 //update 1 - OK
+//update 2 - OK
